@@ -1,6 +1,6 @@
-Regione,Provincia,Codice Scuola,Denominazione,Indirizzo,cap,Comune,Tipo Istituzione,Tipologia scuola,lat,lon
-Sicilia,Palermo,PAIC8AS004,Istituto Comprensivo Statale Vittorio Emanuele III,Via Cesare Terranova 93,90131,Palermo,ISTITUTO COMPRENSIVO,SCUOLA STATALE,38.09771,13.3231
-Puglia,Bari,BAMM29300D,Scuola Secondaria di I° Grado Vittorio Emanuele III - Dante Alighieri,P.zza Trieste e Trento 6,76123,Andria,SCUOLA PRIMO GRADO,SCUOLA STATALE,41.22972,16.29881
-Sicilia,Messina,MEPC060006,Liceo Vittorio Emanuele III,Via Trieste 43,98066,Patti,LICEO CLASSICO,SCUOLA STATALE,38.1402,14.96949
-Puglia,Foggia,FGTD060005,Istituto Tecnico Economico Tecnologico Vittorio Emanuele III,Via Dante 12,71036,Lucera,IST TEC COMMERCIALE E PER GEOMETRI,SCUOLA STATALE,41.51347,15.334
-Sicilia,Palermo,PATF030009,Istituto Tecnico Settore Tecnologico Vittorio Emanuele III,Via Duca Della Verdura 48,90143,Palermo,ISTITUTO TECNICO INDUSTRIALE,SCUOLA STATALE,38.13493,13.35467
+Regione,Provincia,Sigla Provincia,Codice Scuola,Denominazione,Indirizzo,cap,Comune,Tipo Istituzione,Tipologia scuola,lat,lon
+Sicilia,Palermo,PA,PAIC8AS004,Istituto Comprensivo Statale Vittorio Emanuele III,Via Cesare Terranova 93,90131,Palermo,ISTITUTO COMPRENSIVO,SCUOLA STATALE,38.09771,13.3231
+Puglia,Bari,BA,BAMM29300D,Scuola Secondaria di I° Grado Vittorio Emanuele III - Dante Alighieri,P.zza Trieste e Trento 6,76123,Andria,SCUOLA PRIMO GRADO,SCUOLA STATALE,41.22972,16.29881
+Sicilia,Messina,ME,MEPC060006,Liceo Vittorio Emanuele III,Via Trieste 43,98066,Patti,LICEO CLASSICO,SCUOLA STATALE,38.1402,14.96949
+Puglia,Foggia,FG,FGTD060005,Istituto Tecnico Economico Tecnologico Vittorio Emanuele III,Via Dante 12,71036,Lucera,IST TEC COMMERCIALE E PER GEOMETRI,SCUOLA STATALE,41.51347,15.334
+Sicilia,Palermo,PA,PATF030009,Istituto Tecnico Settore Tecnologico Vittorio Emanuele III,Via Duca Della Verdura 48,90143,Palermo,ISTITUTO TECNICO INDUSTRIALE,SCUOLA STATALE,38.13493,13.35467

@@ -9,7 +9,7 @@ Questo elenco e questa mappa servono allora per ricordare che in Italia esistono
 
 Ed è per questo che auspichiamo l'intervento di chi, guidando il sistema educativo italiano, possa reputare opportuno porre fine a questa assurda ed imbarazzante contraddizione.
 
-# [La mappa delle scuolesenzamemoria.] (http://umap.openstreetmap.fr/it/map/scuole-senza-memoria_122008#6/43.157/13.162)<br>
+## [La mappa delle scuolesenzamemoria.] (http://umap.openstreetmap.fr/it/map/scuole-senza-memoria_122008#6/43.157/13.162)<br>
 <br>
-# [Elenco scuolesenzamemoria statali] (https://github.com/picomiles/scuolesenzamemoria/blob/master/Scuole_VE_III_Statali.csv)<br>
-# [Elenco scuolesenzamemoria paritarie] (https://github.com/picomiles/scuolesenzamemoria/blob/master/Scuole_VE_III_Paritarie.csv)
+### [Elenco scuolesenzamemoria statali] (https://github.com/picomiles/scuolesenzamemoria/blob/master/Scuole_VE_III_Statali.csv)<br>
+### [Elenco scuolesenzamemoria paritarie] (https://github.com/picomiles/scuolesenzamemoria/blob/master/Scuole_VE_III_Paritarie.csv)

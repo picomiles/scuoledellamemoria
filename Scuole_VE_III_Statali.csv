@@ -1,4 +1,4 @@
-Regione,Provincia,Codice Scuola,Denominazione,Indirizzo,cap,Comune,Tipo Istituzione,Tipologia scuola,Latitudine,Longitudine
+Regione,Provincia,Codice Scuola,Denominazione,Indirizzo,cap,Comune,Tipo Istituzione,Tipologia scuola,lat,lon
 Sicilia,Palermo,PAIC8AS004,Istituto Comprensivo Statale Vittorio Emanuele III,VIA CESARE TERRANOVA 93,90131,PALERMO,ISTITUTO COMPRENSIVO,SCUOLA STATALE,38.09771,13.3231
 Puglia,Bari,BAMM29300D,Scuola Secondaria di I° Grado Vittorio Emanuele III - Dante Alighieri,P.ZZA TRIESTE E TRENTO 6,76123,ANDRIA,SCUOLA PRIMO GRADO,SCUOLA STATALE,41.22972,16.29881
 Sicilia,Messina,MEPC060006,Liceo Vittorio Emanuele III,VIA  TRIESTE 43,98066,PATTI,LICEO CLASSICO,SCUOLA STATALE,38.1402,14.96949

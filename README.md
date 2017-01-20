@@ -12,3 +12,5 @@ Ed è per questo che auspichiamo l'intervento di chi, guidando il sistema educat
 #### [La mappa delle scuolesenzamemoria.] (http://umap.openstreetmap.fr/it/map/scuole-senza-memoria_122008#6/43.157/13.162)<br>
 #### [Elenco scuolesenzamemoria statali] (https://github.com/picomiles/scuolesenzamemoria/blob/master/Scuole_VE_III_Statali.csv)<br>
 #### [Elenco scuolesenzamemoria paritarie] (https://github.com/picomiles/scuolesenzamemoria/blob/master/Scuole_VE_III_Paritarie.csv)
+
+**#scuolesenzamemoria** nella **#giornatadellamemoria**

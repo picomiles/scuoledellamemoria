@@ -1,5 +1,5 @@
 # scuolesenzamemoria
-Elenco e mappa delle scuole italiane che portano ancora il nome di colui che firmò le **leggi razziali in Italia**
+Elenco e mappa delle scuole italiane che portano ancora il nome di colui che firmò le **leggi razziali** in Italia.
 
 Se le scuole rappresentano il fulcro del **sistema educativo** di una nazione, allora devono educare.
 

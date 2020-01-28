@@ -1,4 +1,4 @@
-Regione,Provincia,Sigla_Provincia,Codice Scuola,Denominazione,Indirizzo,cap,Comune,Tipo Istituzione,Tipologia scuola,Latitudine,Longitudine
+Regione,Provincia,Sigla_Provincia,Codice Scuola,name,Indirizzo,cap,Comune,Tipo Istituzione,Tipologia scuola,Latitudine,Longitudine
 Lombardia,Brescia,BS,BS1A216003,Scuola Paritaria dell'Infanzia Vittorio Emanuele III,Via San Rocco 7,25020,Seniga,SCUOLA INFANZIA NON STATALE,SCUOLA PARITARIA,45.26544,10.21473
 Lombardia,Milano,MI,MI1A29900D,Scuola Paritaria dell'Infanzia Vittorio Emanuele III,Via Meyer 5,20040,Briosco,SCUOLA INFANZIA NON STATALE,SCUOLA PARITARIA,45.70755,9.23953
 Toscana,Grosseto,GR,GR1A016009,Scuola Paritaria dell'Infanzia Vittorio Emanuele III,Via Papa Giovanni XXIII 19,58043,Castiglione Della Pescaia,SCUOLA INFANZIA NON STATALE,SCUOLA PARITARIA,42.76564,10.87272

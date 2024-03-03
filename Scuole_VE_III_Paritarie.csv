@@ -1,4 +1,4 @@
-Regione,Provincia,Sigla_Provincia,Codice Scuola,name,Indirizzo,cap,Comune,Tipo Istituzione,Tipologia scuola,Latitudine,Longitudine
-Lombardia,Brescia,BS,BS1A216003,Scuola Paritaria dell'Infanzia Vittorio Emanuele III,Via San Rocco 7,25020,Seniga,SCUOLA INFANZIA NON STATALE,SCUOLA PARITARIA,45.26544,10.21473
-Lombardia,Milano,MI,MI1A29900D,Scuola Paritaria dell'Infanzia Vittorio Emanuele III,Via Meyer 5,20040,Briosco,SCUOLA INFANZIA NON STATALE,SCUOLA PARITARIA,45.70755,9.23953
-Toscana,Grosseto,GR,GR1A016009,Scuola Paritaria dell'Infanzia Vittorio Emanuele III,Via Papa Giovanni XXIII 19,58043,Castiglione Della Pescaia,SCUOLA INFANZIA NON STATALE,SCUOLA PARITARIA,42.76564,10.87272
+Regione,Provincia,Sigla_Provincia,Codice Scuola,name,Indirizzo,cap,Comune,Tipo Istituzione,Tipologia scuola,Latitudine,Longitudine,note,website
+Lombardia,Brescia,BS,BS1A216003,Scuola Paritaria dell'Infanzia Vittorio Emanuele III,Via San Rocco 7,25020,Seniga,SCUOLA INFANZIA NON STATALE,SCUOLA PARITARIA,45.24351,10.17752,,https://www.facebook.com/p/Scuola-infanzia-Vittorio-Emanuele-III-Seniga-100057130342902/
+Lombardia,Milano,MI,MI1A29900D,Scuola Paritaria dell'Infanzia Vittorio Emanuele III,Via Meyer 5,20040,Briosco,SCUOLA INFANZIA NON STATALE,SCUOLA PARITARIA,45.70768,9.23889,,http://www.scuolainfanziabriosco.it/
+Toscana,Grosseto,GR,GR1A016009,Scuola Paritaria dell'Infanzia Vittorio Emanuele III,Via Papa Giovanni XXIII 19,58043,Castiglione Della Pescaia,SCUOLA INFANZIA NON STATALE,SCUOLA PARITARIA,42.76617,10.86987,,https://www.scuolepercrescere.it/nido-d-infanzia-castiglione-della-pescaia-vittorio-emanuele-iii/

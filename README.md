@@ -18,4 +18,3 @@ Ed è per questo che auspichiamo l'intervento di chi, guidando il sistema educat
 
 #### Marzo 2024 - Aggiornamento
 Durante il 2023 in alcune delle scuole statali in questione sono state intraprese iniziative che in un caso hanno portato la scuola al cambio di denominazione e in un altro alla decisione di avviare l'iter previsto dalle norme per il cambio di denominazione; in precedenza, nel 2018, anche un'altra scuola aveva deciso di avviare l'iter per il cambio della denominazione anche se, a distanza ormai di alcuni anni, nulla è ancora avvenuto in tal senso. Per completezza d'informazione, si è pensato pertanto di aggiungere, ai campi già presenti, un campo "note" per registrare i suddetti avvenimenti e un campo "news" per linkare i documenti o le fonti relative; infine è sembrato opportuno aggiungere anche un campo "website" per linkare i siti istituzionali delle scuole.
-#### [documenti e news] (https://picomiles.github.io/scuolesenzamemoria/)
